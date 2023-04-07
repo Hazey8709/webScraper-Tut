@@ -26,9 +26,10 @@
 
 **Use**: *NPM, Express Axios, Cheerio.*
 
-*I choose to do a web scraper for a few reasons. I will be using Axios and Cheerio, both are a NPM package.
-Scraper will take information from various web sites and display them in categories on web Page. In this tutorial
-I will show and explain whats going on.*
+*I choose to do a web scraper for a few reasons. I will be using Axios and Cheerio, both are a NPM package. <br>
+Scraper will take information from various web sites and display them in categories on web Page. In this tutorial <br>
+I will show you the code and explain whats going on. The reason I picked a webscraper was to show others that there <br>
+are more possibilities then what we see or have been learning. It's possible if we try.* <br>
 
 
 <br>
